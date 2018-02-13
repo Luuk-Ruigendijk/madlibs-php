@@ -16,7 +16,7 @@
 		</ul>
 		<main>
 			<h1>
-				yo
+				onkunde
 			</h1>
 			<form id="inputs" action="onkundeAntwoorden.php" method="post">
 				<p>Wat zou je graag willen kunnen? <input type="text" name="quest1"><br></p>
