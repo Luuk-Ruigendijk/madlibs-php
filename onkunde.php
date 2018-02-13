@@ -8,8 +8,10 @@
 		<meta charset="utf-8">
 		<title>mad libs</title>
 		<link rel="stylesheet" type="text/css" href="graphics.css">
+		<link href="https://fonts.googleapis.com/css?family=Frijole" rel="stylesheet">
 	</head>
 	<body>
+		<header>mad libs</header>
 		<ul>
 			<a href="index.html">Er heerst paniek...</a>
 			<a href="#">Onkunde</a>
