@@ -32,7 +32,7 @@
 			</form>
 		</main>
 		<footer>
-			<p>
+			<p id="foots">
 				Deze website is gemaakt door Luuk.
 			</p>
 		</footer>

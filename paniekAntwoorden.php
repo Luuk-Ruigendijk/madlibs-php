@@ -9,7 +9,7 @@
 	<body>
 		<header>mad libs</header>
 		<ul>
-			<a href="#">Er heerst paniek...</a>
+			<a href="index.html">Er heerst paniek...</a>
 			<a href="Onkunde.php">Onkunde</a>
 		</ul>
 		<main>
